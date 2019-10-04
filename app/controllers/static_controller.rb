@@ -1,5 +1,5 @@
 class StaticController < ApplicationController
   def hello_world
-    render "some_page"
+    render "hello_world"
   end
 end
